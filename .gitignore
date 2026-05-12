@@ -1,0 +1,16 @@
+venv/
+cricket-analytics/
+__pycache__/
+*.pyc
+*.pyo
+.env
+profiles.yml
+raw_data/
+ipl_data.zip
+dbt_cricket/target/
+dbt_cricket/logs/
+dbt_cricket/.user.yml
+.dagster/
+.DS_Store
+*.dist-info/
+site-packages/

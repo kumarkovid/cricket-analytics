@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: cricket_db
+    schema: raw
+    tables:
+      - name: raw_deliveries
+        description: "Raw IPL ball by ball delivery data from Cricsheet"
